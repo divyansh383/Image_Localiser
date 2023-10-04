@@ -1,1 +1,2 @@
 # Image_Localiser
+This Jupyter Notebook serves as a custom image localizer for the MNIST number dataset, achieving a testing data classification accuracy of 80.2% and a mean absolute error (MAE) of 0.0038 in regression. The notebook provides comprehensive code and instructions for both training and inference, making it easy to utilize the model for digit classification and bounding box localization on new images. 
